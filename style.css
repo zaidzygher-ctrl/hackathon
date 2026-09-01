@@ -72,3 +72,22 @@ h2{
     align-content: space-evenly;
 
 }
+.self{
+    display: flex;
+   
+    flex-direction: row-reverse;
+
+}
+.ss{
+    align-self: flex-end;
+    height: 700px;
+    width: 650px;
+    box-shadow: 5px 5px 10px 10px gold;
+    
+}
+.sizp{
+    font-size: 25px;
+    align-self: flex-start;
+    color: #f5f5f6;
+    margin-right: 10px;
+}
