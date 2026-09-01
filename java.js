@@ -53,4 +53,8 @@ const img13=document.querySelector("#JC13");
 img13.addEventListener("click",()=>{
     window.location.href="adeyemi.html";
 });
+const img14=document.querySelector("#JC14");
+img14.addEventListener("click",()=>{
+    window.location.href="messi.html";
+});
 
